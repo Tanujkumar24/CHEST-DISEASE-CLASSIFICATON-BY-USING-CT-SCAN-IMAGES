@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/project-6/CHEST-DISEASE-CLASSIFICATON-BY-USING-CT-SCAN-IMAGES/mlruns/0/5275c1eb3a1f45899cd377fddcf26d90/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5275c1eb3a1f45899cd377fddcf26d90
+run_name: whimsical-deer-885
+run_uuid: 5275c1eb3a1f45899cd377fddcf26d90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719339720903
+status: 1
+tags: []
+user_id: DELL
