@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/project-6/CHEST-DISEASE-CLASSIFICATON-BY-USING-CT-SCAN-IMAGES/mlruns/0/c02ba1ec05ca435e8f9d7df5748d3978/artifacts
+end_time: 1719583101275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c02ba1ec05ca435e8f9d7df5748d3978
+run_name: upset-ram-304
+run_uuid: c02ba1ec05ca435e8f9d7df5748d3978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719583075819
+status: 3
+tags: []
+user_id: DELL
