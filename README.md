@@ -53,7 +53,7 @@ python app.py
 
 ```bash
 import dagshub
-dagshub.init(repo_owner='Tanujkumar24', repo_name='ML_Flow_experiment', mlflow=True)
+dagshub.init(repo_owner='Tanujkumar24', repo_name='CHEST-DISEASE-CLASSIFICATON-BY-USING-CT-SCAN-IMAGES', mlflow=True)
 
 import mlflow
 with mlflow.start_run():
@@ -66,11 +66,11 @@ with mlflow.start_run():
 ### RUN from bash terminal
 
 ```bash
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/Chest-Disease-Classification-from-Chest-CT-Scan-Image.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/Tanujkumar24/CHEST-DISEASE-CLASSIFICATON-BY-USING-CT-SCAN-IMAGES.mlflow
 
-export MLFLOW_TRACKING_USERNAME=entbappy 
+export MLFLOW_TRACKING_USERNAME=Tanujkumar24
 
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
+export MLFLOW_TRACKING_PASSWORD=*****
 
 ```
 
