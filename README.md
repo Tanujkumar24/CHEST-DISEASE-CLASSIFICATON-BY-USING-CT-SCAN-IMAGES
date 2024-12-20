@@ -2,6 +2,17 @@
 # Chest Disease Classification Using CT Scan Images
 
 This project focuses on developing a deep learning model to classify various chest diseases using CT scan images. Leveraging convolutional neural networks (CNNs), the model aims to assist in the early detection and diagnosis of chest-related ailments. [Data link](https://drive.google.com/drive/folders/1Z7u504MlagwvzMQH7-X6QZQdsKowTSg8?usp=sharing)
+### Sample Images
+
+**Adenocarcinoma CT Scan:**
+
+![Adenocarcinoma](https://github.com/Tanujkumar24/CHEST-DISEASE-CLASSIFICATON-BY-USING-CT-SCAN-IMAGES/blob/main/adenocarcinoma.png)
+
+**Normal CT Scan:**
+
+![Normal](https://github.com/Tanujkumar24/CHEST-DISEASE-CLASSIFICATON-BY-USING-CT-SCAN-IMAGES/blob/main/Normal.png)
+
+The images are preprocessed to ensure uniformity in size and quality, facilitating effective model training.
 
 ## Table of Contents
 
