@@ -1,7 +1,7 @@
 
 # Chest Disease Classification Using CT Scan Images
 
-This project focuses on developing a deep learning model to classify various chest diseases using CT scan images. Leveraging convolutional neural networks (CNNs), the model aims to assist in the early detection and diagnosis of chest-related ailments.
+This project focuses on developing a deep learning model to classify various chest diseases using CT scan images. Leveraging convolutional neural networks (CNNs), the model aims to assist in the early detection and diagnosis of chest-related ailments. [Data link](https://drive.google.com/drive/folders/1Z7u504MlagwvzMQH7-X6QZQdsKowTSg8?usp=sharing)
 
 ## Table of Contents
 
@@ -33,7 +33,16 @@ The images are preprocessed to ensure uniformity in size and quality, facilitati
 ## Model Architecture
 
 The classification model is built using a Convolutional Neural Network (CNN) architecture, known for its proficiency in image recognition tasks. The architecture includes multiple convolutional layers for feature extraction, followed by fully connected layers for classification. Techniques such as batch normalization and dropout are employed to enhance model performance and prevent overfitting.
+## Workflows
 
+1. Update config.yaml
+2. Update params.yaml
+3. Update the entity
+4. Update the configuration manager in src config
+5. Update the components
+6. Update the pipeline 
+7. Update the main.py
+8. Update the dvc.yaml 
 ## Installation
 
 To set up the project locally, follow these steps:
